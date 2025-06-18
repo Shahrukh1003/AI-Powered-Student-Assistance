@@ -10,6 +10,7 @@ An intelligent AI-powered chatbot designed to assist REVA University students wi
 - **University-Specific Data**: Integration with REVA University's data system
 - **Responsive Design**: Modern UI with cosmic background and smooth animations
 - **Accessibility**: ARIA-compliant components and voice assistance
+- **Multi-language Support**: Built-in translation capabilities
 - **Theme Support**: Light/Dark mode implementation
 
 ## 🛠️ Tech Stack
@@ -28,7 +29,7 @@ An intelligent AI-powered chatbot designed to assist REVA University students wi
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Shahrukh1003/AI-Powered-Student-Assistance.git
 ```
 
 2. Install dependencies:
@@ -98,7 +99,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Shahrukh Saifi - Initial work
+- Shahrukh - Initial work
 
 ## 🙏 Acknowledgments
 
